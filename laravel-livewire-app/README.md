@@ -1,10 +1,6 @@
-## About Laravel
+## Kickstart with laravel-livewire
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects. Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-### Kickstart
-- laravel-app : kickstart with laravel
-- laravel-livewire-app : kickstart with laravel and livewire
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 ## Contributing
 
