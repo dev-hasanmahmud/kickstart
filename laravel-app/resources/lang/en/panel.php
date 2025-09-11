@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'site_title' => 'laravel',
+    'site_title' => 'Laravel',
 
 ];
