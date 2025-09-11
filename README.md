@@ -4,6 +4,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 ### Kickstart
 - laravel-app : kickstart with laravel
+- laravel-vue-app : kickstart with laravel and vue
 - laravel-livewire-app : kickstart with laravel and livewire
 
 ## Contributing
